@@ -4,7 +4,11 @@
 
 Dick's Sporting Goods stands as a frontrunner in the sporting goods retail industry, offering a comprehensive selection of equipment, apparel, and footwear designed for a variety of outdoor activities and sports enthusiasts. As the company expands its footprint across the United States, gaining in-depth insights into sales performance, customer demographics, product effectiveness, and geographic market dynamics becomes increasingly vital.
 
-To address this critical need, Dick's Sporting Goods has embarked on the development of a sophisticated Power BI reporting dashboard. The objective of this initiative is to create a suite of interactive and visually appealing Power BI dashboards that encapsulate essential performance metrics across multiple dimensions. This will empower stakeholders to derive meaningful insights into sales trends, customer behaviors, and product performance, ultimately facilitating informed decision-making and strategic planning. Furthermore, we have ensured that the selected dashboard visual includes at least one tooltip, allowing users to hover over specific areas and view detailed sales figures and trends.
+**Problem Statement:**
+
+Dick's Sporting Goods is currently facing significant challenges in effectively visualizing and analyzing critical business data due to a lack of integrated reporting tools. This has led to difficulties in tracking sales trends, understanding customer behavior, and assessing product performance comprehensively. As a result, stakeholders are unable to make data-driven decisions promptly, which hampers strategic planning and business growth.
+
+To mitigate this pain point, the company seeks to develop a comprehensive Power BI reporting dashboard. The goal is to establish an interactive and visually engaging dashboard suite that provides real-time access to essential performance metrics across various dimensions. This solution should not only enable stakeholders to glean actionable insights, but it should also include user-friendly features such as tooltips for deeper data exploration, allowing users to hover over specific figures and trends to obtain detailed sales information. By doing so, Dick's Sporting Goods aims to enhance decision-making capabilities and drive better business outcomes.
 
 ## Objectives
 
