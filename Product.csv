@@ -1,0 +1,418 @@
+﻿ProductKey,ProductName,SubCategory,Category,StandardCost,Color,ListPrice,DaysToManufacture,ProductLine,ModelName,ProductDescription
+1,Adjustable Race,Race Components,Bike Parts,7.28,Black,12.99,0,Mountain,Adjustable Race,High-quality race component for serious bikers.
+2,Bearing Ball,Bearings,Bike Parts,1.21,Silver,3.49,0,Mountain,Bearing Ball,Essential for various bike mechanisms.
+3,BB Ball Bearing,Bearings,Bike Parts,1.99,Silver,5.99,1,Mountain,BB Ball Bearing,Durable ball bearing for smooth pedaling.
+4,Headset Ball Bearings,Bearings,Bike Parts,2.68,Silver,7.99,0,Mountain,Headset Ball Bearings,Provides smooth steering and durability.
+5,Blade,Components,Bike Parts,3.45,Silver,9.99,1,Mountain,Blade,Sharp  durable blades for performance enhancement.
+6,LL Crankarm,Crankarms,Bike Parts,19.99,Black,49.99,0,Mountain,LL Crankarm,Left crankarm designed for strength and performance.
+7,ML Crankarm,Crankarms,Bike Parts,24.99,Black,69.99,0,Mountain,ML Crankarm,Mid-line crankarm for everyday biking needs.
+8,HL Crankarm,Crankarms,Bike Parts,34.99,Black,99.99,0,Mountain,HL Crankarm,Heavy-duty crankarm for extreme biking.
+9,Chainring Bolts,Chainrings,Bike Parts,0.5,Silver,1.99,0,Mountain,Chainring Bolts,Essential bolts to secure chainrings in place.
+10,Chainring Nut,Chainrings,Bike Parts,0.75,Silver,2.99,0,Mountain,Chainring Nut,Secures chainrings to cranksets.
+11,Chainring,Chainrings,Bike Parts,11.99,Silver,39.99,0,Mountain,Chainring,Durable chainring for smoother gear changes.
+12,Crown Race,Headsets,Bike Parts,2.99,Silver,8.99,0,Mountain,Crown Race,Crown race for headset assembly.
+13,Chain Stays,Frame Parts,Bike Parts,14.99,Black,44.99,1,Mountain,Chain Stays,Provides support and strength to the bike frame.
+14,Decal 1,Decals,Accessories,0.5,Multi,1.99,0,Mountain,Decal 1,Cosmetic decals for bike personalization.
+15,Decal 2,Decals,Accessories,0.5,Multi,1.99,0,Mountain,Decal 2,Cosmetic decals for bike personalization.
+16,Down Tube,Frame Parts,Bike Parts,19.99,Black,59.99,1,Mountain,Down Tube,Critical tube for structural integrity of frames.
+17,Mountain End Caps,Frame Parts,Bike Parts,1.99,Black,5.99,1,Mountain,Mountain End Caps,End caps for mountain bike frames.
+18,Road End Caps,Frame Parts,Bike Parts,1.99,Black,5.99,1,Road,Road End Caps,End caps for road bike frames.
+19,Touring End Caps,Frame Parts,Bike Parts,1.99,Black,5.99,1,Touring,Touring End Caps,End caps suitable for touring bikes.
+20,Fork End,Fork Components,Bike Parts,3.99,Black,11.99,1,Mountain,Fork End,Durable fork end for stability and performance.
+21,Freewheel,Drivetrain Components,Bike Parts,14.99,Silver,44.99,0,Mountain,Freewheel,Essential component for rear gear mechanisms.
+22,Flat Washer 1,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Flat Washer 1,Flat washers for various bike assemblies.
+23,Flat Washer 6,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Flat Washer 6,Flat washers for various bike assemblies.
+24,Flat Washer 2,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Flat Washer 2,Flat washers for various bike assemblies.
+25,Flat Washer 9,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Flat Washer 9,Flat washers for various bike assemblies.
+26,Flat Washer 4,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Flat Washer 4,Flat washers for various bike assemblies.
+27,Flat Washer 3,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Flat Washer 3,Flat washers for various bike assemblies.
+28,Flat Washer 8,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Flat Washer 8,Flat washers for various bike assemblies.
+29,Flat Washer 5,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Flat Washer 5,Flat washers for various bike assemblies.
+30,Flat Washer 7,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Flat Washer 7,Flat washers for various bike assemblies.
+31,Fork Crown,Fork Components,Bike Parts,4.99,Black,14.99,1,Mountain,Fork Crown,Strengthens and stabilizes the fork.
+32,Front Derailleur Cage,Derailleurs,Bike Parts,5.99,Silver,17.99,0,Mountain,Front Derailleur Cage,Guides the chain through the gears.
+33,Front Derailleur Linkage,Derailleurs,Bike Parts,3.99,Silver,11.99,0,Mountain,Front Derailleur Linkage,Connects the derailleur to gear shifters.
+34,Guide Pulley,Pulleys,Bike Parts,1.99,Silver,5.99,0,Mountain,Guide Pulley,For rear derailleur systems.
+35,LL Grip Tape,Grip Tape,Accessories,3.99,Black,11.99,0,Mountain,LL Grip Tape,Comfort grip tape for handlebars.
+36,ML Grip Tape,Grip Tape,Accessories,5.99,Black,17.99,0,Mountain,ML Grip Tape,Mid-level grip tape for handlebars.
+37,HL Grip Tape,Grip Tape,Accessories,7.99,Black,23.99,0,Mountain,HL Grip Tape,High-quality grip tape for ultimate control.
+38,Thin-Jam Hex Nut 9,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Hex Nut 9,Essential nut for various assemblies.
+39,Thin-Jam Hex Nut 10,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Hex Nut 10,Essential nut for various assemblies.
+40,Thin-Jam Hex Nut 1,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Hex Nut 1,Essential nut for various assemblies.
+41,Thin-Jam Hex Nut 2,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Hex Nut 2,Essential nut for various assemblies.
+42,Thin-Jam Hex Nut 15,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Hex Nut 15,Essential nut for various assemblies.
+43,Thin-Jam Hex Nut 16,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Hex Nut 16,Essential nut for various assemblies.
+44,Thin-Jam Hex Nut 5,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Hex Nut 5,Essential nut for various assemblies.
+45,Thin-Jam Hex Nut 6,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Hex Nut 6,Essential nut for various assemblies.
+46,Thin-Jam Hex Nut 3,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Hex Nut 3,Essential nut for various assemblies.
+47,Thin-Jam Hex Nut 4,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Hex Nut 4,Essential nut for various assemblies.
+48,Thin-Jam Hex Nut 13,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Hex Nut 13,Essential nut for various assemblies.
+49,Thin-Jam Hex Nut 14,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Hex Nut 14,Essential nut for various assemblies.
+50,Thin-Jam Hex Nut 7,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Hex Nut 7,Essential nut for various assemblies.
+51,Thin-Jam Hex Nut 8,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Hex Nut 8,Essential nut for various assemblies.
+52,Thin-Jam Hex Nut 12,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Hex Nut 12,Essential nut for various assemblies.
+53,Thin-Jam Hex Nut 11,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Hex Nut 11,Essential nut for various assemblies.
+54,Hex Nut 5,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 5,Nuts for various bike components.
+55,Hex Nut 6,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 6,Nuts for various bike components.
+56,Hex Nut 16,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 16,Nuts for various bike components.
+57,Hex Nut 17,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 17,Nuts for various bike components.
+58,Hex Nut 7,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 7,Nuts for various bike components.
+59,Hex Nut 8,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 8,Nuts for various bike components.
+60,Hex Nut 9,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 9,Nuts for various bike components.
+61,Hex Nut 22,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 22,Nuts for various bike components.
+62,Hex Nut 23,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 23,Nuts for various bike components.
+63,Hex Nut 12,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 12,Nuts for various bike components.
+64,Hex Nut 13,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 13,Nuts for various bike components.
+65,Hex Nut 1,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 1,Nuts for various bike components.
+66,Hex Nut 10,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 10,Nuts for various bike components.
+67,Hex Nut 11,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 11,Nuts for various bike components.
+68,Hex Nut 2,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 2,Nuts for various bike components.
+69,Hex Nut 20,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 20,Nuts for various bike components.
+70,Hex Nut 21,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 21,Nuts for various bike components.
+71,Hex Nut 3,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 3,Nuts for various bike components.
+72,Hex Nut 14,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 14,Nuts for various bike components.
+73,Hex Nut 15,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 15,Nuts for various bike components.
+74,Hex Nut 4,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 4,Nuts for various bike components.
+75,Hex Nut 18,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 18,Nuts for various bike components.
+76,Hex Nut 19,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Hex Nut 19,Nuts for various bike components.
+77,Handlebar Tube,Handlebars,Bike Parts,9.99,Black,29.99,1,Mountain,Handlebar Tube,Durable tube for optimal handling performance.
+78,Head Tube,Frame Parts,Bike Parts,19.99,Black,59.99,1,Mountain,Head Tube,Provides stability and strength to the frame.
+79,LL Hub,Hubs,Bike Parts,14.99,Silver,44.99,1,Mountain,LL Hub,Essential hub for smooth wheel rotation.
+80,HL Hub,Hubs,Bike Parts,24.99,Silver,69.99,1,Mountain,HL Hub,High-performance hub for enhanced durability.
+81,Keyed Washer,Washers,Bike Parts,0.5,Silver,1.99,0,Mountain,Keyed Washer,Essential for securing components.
+82,External Lock Washer 3,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,External Lock Washer 3,Prevents loosening due to vibrations.
+83,External Lock Washer 4,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,External Lock Washer 4,Prevents loosening due to vibrations.
+84,External Lock Washer 9,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,External Lock Washer 9,Prevents loosening due to vibrations.
+85,External Lock Washer 5,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,External Lock Washer 5,Prevents loosening due to vibrations.
+86,External Lock Washer 7,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,External Lock Washer 7,Prevents loosening due to vibrations.
+87,External Lock Washer 6,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,External Lock Washer 6,Prevents loosening due to vibrations.
+88,External Lock Washer 1,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,External Lock Washer 1,Prevents loosening due to vibrations.
+89,External Lock Washer 8,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,External Lock Washer 8,Prevents loosening due to vibrations.
+90,External Lock Washer 2,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,External Lock Washer 2,Prevents loosening due to vibrations.
+91,Internal Lock Washer 3,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Internal Lock Washer 3,Safeguards against loosening of various parts.
+92,Internal Lock Washer 4,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Internal Lock Washer 4,Safeguards against loosening of various parts.
+93,Internal Lock Washer 9,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Internal Lock Washer 9,Safeguards against loosening of various parts.
+94,Internal Lock Washer 5,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Internal Lock Washer 5,Safeguards against loosening of various parts.
+95,Internal Lock Washer 7,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Internal Lock Washer 7,Safeguards against loosening of various parts.
+96,Internal Lock Washer 6,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Internal Lock Washer 6,Safeguards against loosening of various parts.
+97,Internal Lock Washer 10,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Internal Lock Washer 10,Safeguards against loosening of various parts.
+98,Internal Lock Washer 1,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Internal Lock Washer 1,Safeguards against loosening of various parts.
+99,Internal Lock Washer 8,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Internal Lock Washer 8,Safeguards against loosening of various parts.
+100,Internal Lock Washer 2,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Internal Lock Washer 2,Safeguards against loosening of various parts.
+101,Thin-Jam Lock Nut 9,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Lock Nut 9,Nuts for various bike components.
+102,Thin-Jam Lock Nut 10,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Lock Nut 10,Nuts for various bike components.
+103,Thin-Jam Lock Nut 1,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Lock Nut 1,Nuts for various bike components.
+104,Thin-Jam Lock Nut 2,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Lock Nut 2,Nuts for various bike components.
+105,Thin-Jam Lock Nut 15,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Lock Nut 15,Nuts for various bike components.
+106,Thin-Jam Lock Nut 16,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Lock Nut 16,Nuts for various bike components.
+107,Thin-Jam Lock Nut 5,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Lock Nut 5,Nuts for various bike components.
+108,Thin-Jam Lock Nut 6,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Lock Nut 6,Nuts for various bike components.
+109,Thin-Jam Lock Nut 3,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Lock Nut 3,Nuts for various bike components.
+110,Thin-Jam Lock Nut 4,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Lock Nut 4,Nuts for various bike components.
+111,Thin-Jam Lock Nut 13,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Lock Nut 13,Nuts for various bike components.
+112,Thin-Jam Lock Nut 14,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Lock Nut 14,Nuts for various bike components.
+113,Thin-Jam Lock Nut 7,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Lock Nut 7,Nuts for various bike components.
+114,Thin-Jam Lock Nut 8,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Lock Nut 8,Nuts for various bike components.
+115,Thin-Jam Lock Nut 12,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Lock Nut 12,Nuts for various bike components.
+116,Thin-Jam Lock Nut 11,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Thin-Jam Lock Nut 11,Nuts for various bike components.
+117,Lock Nut 5,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 5,Nuts for various bike components.
+118,Lock Nut 6,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 6,Nuts for various bike components.
+119,Lock Nut 16,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 16,Nuts for various bike components.
+120,Lock Nut 17,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 17,Nuts for various bike components.
+121,Lock Nut 7,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 7,Nuts for various bike components.
+122,Lock Nut 8,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 8,Nuts for various bike components.
+123,Lock Nut 9,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 9,Nuts for various bike components.
+124,Lock Nut 22,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 22,Nuts for various bike components.
+125,Lock Nut 23,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 23,Nuts for various bike components.
+126,Lock Nut 12,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 12,Nuts for various bike components.
+127,Lock Nut 13,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 13,Nuts for various bike components.
+128,Lock Nut 1,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 1,Nuts for various bike components.
+129,Lock Nut 10,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 10,Nuts for various bike components.
+130,Lock Nut 11,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 11,Nuts for various bike components.
+131,Lock Nut 2,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 2,Nuts for various bike components.
+132,Lock Nut 20,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 20,Nuts for various bike components.
+133,Lock Nut 21,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 21,Nuts for various bike components.
+134,Lock Nut 3,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 3,Nuts for various bike components.
+135,Lock Nut 14,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 14,Nuts for various bike components.
+136,Lock Nut 15,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 15,Nuts for various bike components.
+137,Lock Nut 4,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 4,Nuts for various bike components.
+138,Lock Nut 19,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 19,Nuts for various bike components.
+139,Lock Nut 18,Nuts,Bike Parts,0.25,Silver,0.99,0,Mountain,Lock Nut 18,Nuts for various bike components.
+140,Lock Ring,Rings,Bike Parts,0.75,Silver,2.99,0,Mountain,Lock Ring,Provides secure connection for various bike components.
+141,Lower Head Race,Headsets,Bike Parts,2.99,Silver,8.99,0,Mountain,Lower Head Race,Critical component for headset stability.
+142,Lock Washer 4,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Lock Washer 4,Prevents loosening of fitted hardware.
+143,Lock Washer 5,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Lock Washer 5,Prevents loosening of fitted hardware.
+144,Lock Washer 10,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Lock Washer 10,Prevents loosening of fitted hardware.
+145,Lock Washer 6,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Lock Washer 6,Prevents loosening of fitted hardware.
+146,Lock Washer 13,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Lock Washer 13,Prevents loosening of fitted hardware.
+147,Lock Washer 8,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Lock Washer 8,Prevents loosening of fitted hardware.
+148,Lock Washer 1,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Lock Washer 1,Prevents loosening of fitted hardware.
+149,Lock Washer 7,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Lock Washer 7,Prevents loosening of fitted hardware.
+150,Lock Washer 12,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Lock Washer 12,Prevents loosening of fitted hardware.
+151,Lock Washer 2,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Lock Washer 2,Prevents loosening of fitted hardware.
+152,Lock Washer 9,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Lock Washer 9,Prevents loosening of fitted hardware.
+153,Lock Washer 3,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Lock Washer 3,Prevents loosening of fitted hardware.
+154,Lock Washer 11,Washers,Bike Parts,0.1,Silver,0.5,0,Mountain,Lock Washer 11,Prevents loosening of fitted hardware.
+155,Metal Angle,Metal Parts,Bike Parts,1.99,Silver,5.99,0,Mountain,Metal Angle,For structural reinforcement.
+156,Metal Bar 1,Metal Parts,Bike Parts,1.99,Silver,5.99,0,Mountain,Metal Bar 1,Versatile metal component for various uses.
+157,Metal Bar 2,Metal Parts,Bike Parts,1.99,Silver,5.99,0,Mountain,Metal Bar 2,Versatile metal component for various uses.
+158,Metal Plate 2,Metal Parts,Bike Parts,2.99,Silver,8.99,0,Mountain,Metal Plate 2,Used in multiple structural applications.
+159,Metal Plate 1,Metal Parts,Bike Parts,2.99,Silver,8.99,0,Mountain,Metal Plate 1,Used in multiple structural applications.
+160,Metal Plate 3,Metal Parts,Bike Parts,2.99,Silver,8.99,0,Mountain,Metal Plate 3,Used in multiple structural applications.
+161,Metal Sheet 2,Metal Parts,Bike Parts,1.99,Silver,5.99,0,Mountain,Metal Sheet 2,Thin metal sheet for various applications.
+162,Metal Sheet 3,Metal Parts,Bike Parts,1.99,Silver,5.99,0,Mountain,Metal Sheet 3,Thin metal sheet for various applications.
+163,Metal Sheet 7,Metal Parts,Bike Parts,1.99,Silver,5.99,0,Mountain,Metal Sheet 7,Thin metal sheet for various applications.
+164,Metal Sheet 4,Metal Parts,Bike Parts,1.99,Silver,5.99,0,Mountain,Metal Sheet 4,Thin metal sheet for various applications.
+165,Metal Sheet 5,Metal Parts,Bike Parts,1.99,Silver,5.99,0,Mountain,Metal Sheet 5,Thin metal sheet for various applications.
+166,Metal Sheet 6,Metal Parts,Bike Parts,1.99,Silver,5.99,0,Mountain,Metal Sheet 6,Thin metal sheet for various applications.
+167,Metal Sheet 1,Metal Parts,Bike Parts,1.99,Silver,5.99,0,Mountain,Metal Sheet 1,Thin metal sheet for various applications.
+168,Metal Tread Plate,Metal Parts,Bike Parts,3.99,Silver,11.99,0,Mountain,Metal Tread Plate,For added traction in various applications.
+169,LL Nipple,Nipples,Bike Parts,0.5,Silver,1.99,0,Mountain,LL Nipple,Essential for various wheel components.
+170,HL Nipple,Nipples,Bike Parts,0.75,Silver,2.99,0,Mountain,HL Nipple,Durable nipple for high-performance wheels.
+171,Paint - Black,Paints,Accessories,3.99,Black,11.99,0,Mountain,Paint - Black,Durable black paint for bike frames.
+172,Paint - Red,Paints,Accessories,3.99,Red,11.99,0,Mountain,Paint - Red,Bold red paint for bike frames.
+173,Paint - Silver,Paints,Accessories,3.99,Silver,11.99,0,Mountain,Paint - Silver,Shiny silver paint for bike frames.
+174,Paint - Blue,Paints,Accessories,3.99,Blue,11.99,0,Mountain,Paint - Blue,Bright blue paint for bike frames.
+175,Paint - Yellow,Paints,Accessories,3.99,Yellow,11.99,0,Mountain,Paint - Yellow,Eye-catching yellow paint for bike frames.
+176,Pinch Bolt,Bolts,Bike Parts,0.5,Silver,1.99,0,Mountain,Pinch Bolt,For securing various components.
+177,Cup-Shaped Race,Headsets,Bike Parts,2.99,Silver,8.99,0,Mountain,Cup-Shaped Race,Essential for headset assembly.
+178,Cone-Shaped Race,Headsets,Bike Parts,2.99,Silver,8.99,0,Mountain,Cone-Shaped Race,Provides stability in headset systems.
+179,Reflector,Safety Equipment,Accessories,1.99,Red,5.99,0,Mountain,Reflector,Improves visibility and safety on the road.
+180,LL Mountain Rim,Wheels,Bike Parts,14.99,Black,44.99,0,Mountain,LL Mountain Rim,Durable rims designed for mountain biking.
+181,ML Mountain Rim,Wheels,Bike Parts,19.99,Black,59.99,0,Mountain,ML Mountain Rim,Mid-level rims for reliable performance.
+182,HL Mountain Rim,Wheels,Bike Parts,29.99,Black,89.99,0,Mountain,HL Mountain Rim,High-performance rims for serious mountain biking.
+183,LL Road Rim,Wheels,Bike Parts,12.99,Black,39.99,0,Road,LL Road Rim,Lightweight and strong road bike rims.
+184,ML Road Rim,Wheels,Bike Parts,17.99,Black,54.99,0,Road,ML Road Rim,Mid-weight rims for road bikes.
+185,HL Road Rim,Wheels,Bike Parts,24.99,Black,74.99,0,Road,HL Road Rim,High-end road rims for competition.
+186,Touring Rim,Wheels,Bike Parts,17.99,Black,54.99,0,Touring,Touring Rim,Rims designed for touring bicycles.
+187,LL Mountain Seat Assembly,Seat Assemblies,Bike Parts,24.99,Black,74.99,1,Mountain,LL Mountain Seat Assembly,Comfortable seat assembly for mountain bikes.
+188,ML Mountain Seat Assembly,Seat Assemblies,Bike Parts,34.99,Black,104.99,1,Mountain,ML Mountain Seat Assembly,Mid-level seat for mountain biking.
+189,HL Mountain Seat Assembly,Seat Assemblies,Bike Parts,49.99,Black,149.99,1,Mountain,HL Mountain Seat Assembly,Premium seat assembly for mountain bikes.
+190,LL Road Seat Assembly,Seat Assemblies,Bike Parts,22.99,Black,69.99,1,Road,LL Road Seat Assembly,Comfortable seat for road bikes.
+191,ML Road Seat Assembly,Seat Assemblies,Bike Parts,32.99,Black,99.99,1,Road,ML Road Seat Assembly,Mid-tier seat assembly for road bikes.
+192,HL Road Seat Assembly,Seat Assemblies,Bike Parts,44.99,Black,134.99,1,Road,HL Road Seat Assembly,High-end seat for road cycling.
+193,LL Touring Seat Assembly,Seat Assemblies,Bike Parts,27.99,Black,84.99,1,Touring,LL Touring Seat Assembly,Designed for comfort during long rides.
+194,ML Touring Seat Assembly,Seat Assemblies,Bike Parts,37.99,Black,114.99,1,Touring,ML Touring Seat Assembly,Mid-level touring seat assembly.
+195,HL Touring Seat Assembly,Seat Assemblies,Bike Parts,54.99,Black,164.99,1,Touring,HL Touring Seat Assembly,Premium seat for touring cyclists.
+196,LL Spindle/Axle,Spindles/Axles,Bike Parts,5.99,Silver,17.99,0,Mountain,LL Spindle/Axle,Durable spindle for bikes.
+197,HL Spindle/Axle,Spindles/Axles,Bike Parts,9.99,Silver,29.99,0,Mountain,HL Spindle/Axle,High-performance axle for enhanced strength.
+198,LL Shell,Shells,Bike Parts,4.99,Silver,14.99,0,Mountain,LL Shell,Standard shell for bottom bracket assemblies.
+199,HL Shell,Shells,Bike Parts,7.99,Silver,23.99,0,Mountain,HL Shell,High-quality shell designed for durability.
+200,Spokes,Spokes,Bike Parts,0.5,Silver,1.99,0,Mountain,Spokes,Essential for wheel assembly.
+201,Seat Lug,Frame Parts,Bike Parts,3.99,Black,11.99,0,Mountain,Seat Lug,Used to mount the seat post securely.
+202,Stem,Handlebars,Bike Parts,11.99,Black,35.99,1,Mountain,Stem,Adjustable stem for personalized fit.
+203,Seat Post,Seat Posts,Bike Parts,14.99,Black,44.99,0,Mountain,Seat Post,Durable seat post for optimal seat adjustment.
+204,Steerer,Components,Bike Parts,9.99,Black,29.99,1,Mountain,Steerer,Essential for steering and handling.
+205,Seat Stays,Frame Parts,Bike Parts,14.99,Black,44.99,1,Mountain,Seat Stays,Provides essential support to the bike frame.
+206,Seat Tube,Frame Parts,Bike Parts,19.99,Black,59.99,1,Mountain,Seat Tube,Integral part of frame construction.
+207,Top Tube,Frame Parts,Bike Parts,19.99,Black,59.99,1,Mountain,Top Tube,Essential for structural integrity of the frame.
+208,Tension Pulley,Pulleys,Bike Parts,1.99,Silver,5.99,0,Mountain,Tension Pulley,Used in various bike gearing systems.
+209,Rear Derailleur Cage,Derailleurs,Bike Parts,5.99,Silver,17.99,0,Mountain,Rear Derailleur Cage,Essential component for rear shifting mechanism.
+212,"Sport-100 Helmet, Red",Helmets,Accessories,12.03,Red,33.64,0,Sport,Sport-100,"Universal fit, well-vented, lightweight , snap-on visor."
+213,"Sport-100 Helmet, Red",Helmets,Accessories,13.88,Red,33.64,0,Sport,Sport-100,"Universal fit, well-vented, lightweight , snap-on visor."
+214,"Sport-100 Helmet, Red",Helmets,Accessories,13.09,Red,33.64,0,Sport,Sport-100,"Universal fit, well-vented, lightweight , snap-on visor."
+215,"Sport-100 Helmet, Black",Helmets,Accessories,12.03,Black,33.64,0,Sport,Sport-100,"Universal fit, well-vented, lightweight , snap-on visor."
+216,"Sport-100 Helmet, Black",Helmets,Accessories,13.88,Black,34.99,0,Sport,Sport-100,"Universal fit, well-vented, lightweight , snap-on visor."
+217,"Sport-100 Helmet, Black",Helmets,Accessories,13.09,Black,33.64,0,Sport,Sport-100,"Universal fit, well-vented, lightweight , snap-on visor."
+218,"Mountain Bike Socks, M",Socks,Clothing,3.4,White,33.64,0,Mountain,Mountain Bike Socks,Combination of natural and synthetic fibers stays dry and provides just the right cushioning.
+219,"Mountain Bike Socks, L",Socks,Clothing,3.4,White,34.99,0,Mountain,Mountain Bike Socks,Combination of natural and synthetic fibers stays dry and provides just the right cushioning.
+220,"Sport-100 Helmet, Blue",Helmets,Accessories,12.03,Blue,9.5,0,Sport,Sport-100,"Universal fit, well-vented, lightweight , snap-on visor."
+221,"Sport-100 Helmet, Blue",Helmets,Accessories,13.88,Blue,9.5,0,Sport,Sport-100,"Universal fit, well-vented, lightweight , snap-on visor."
+222,"Sport-100 Helmet, Blue",Helmets,Accessories,13.09,Blue,33.64,0,Sport,Sport-100,"Universal fit, well-vented, lightweight , snap-on visor."
+223,AWC Logo Cap,Caps,Clothing,5.71,Multi,33.64,0,Sport,Cycling Cap,Traditional style with a flip-up brim; one-size fits all.
+224,AWC Logo Cap,Caps,Clothing,5.23,Multi,34.99,0,Sport,Cycling Cap,Traditional style with a flip-up brim; one-size fits all.
+225,AWC Logo Cap,Caps,Clothing,6.92,Multi,8.64,0,Sport,Cycling Cap,Traditional style with a flip-up brim; one-size fits all.
+226,"Long-Sleeve Logo Jersey, S",Jerseys,Clothing,31.72,Multi,8.64,0,Sport,Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey
+227,"Long-Sleeve Logo Jersey, S",Jerseys,Clothing,29.08,Multi,8.99,0,Sport,Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey
+228,"Long-Sleeve Logo Jersey, S",Jerseys,Clothing,38.49,Multi,48.07,0,Sport,Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey
+229,"Long-Sleeve Logo Jersey, M",Jerseys,Clothing,31.72,Multi,48.07,0,Sport,Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey
+230,"Long-Sleeve Logo Jersey, M",Jerseys,Clothing,29.08,Multi,49.99,0,Sport,Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey
+231,"Long-Sleeve Logo Jersey, M",Jerseys,Clothing,38.49,Multi,48.07,0,Sport,Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey
+232,"Long-Sleeve Logo Jersey, L",Jerseys,Clothing,31.72,Multi,48.07,0,Sport,Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey
+233,"Long-Sleeve Logo Jersey, L",Jerseys,Clothing,29.08,Multi,49.99,0,Sport,Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey
+234,"Long-Sleeve Logo Jersey, L",Jerseys,Clothing,38.49,Multi,48.07,0,Sport,Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey
+235,"Long-Sleeve Logo Jersey, XL",Jerseys,Clothing,31.72,Multi,48.07,0,Sport,Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey
+236,"Long-Sleeve Logo Jersey, XL",Jerseys,Clothing,29.08,Multi,49.99,0,Sport,Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey
+237,"Long-Sleeve Logo Jersey, XL",Jerseys,Clothing,38.49,Multi,48.07,0,Sport,Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey
+310,"Road-150 Red, 62",Road Bikes,Bikes,"2,171.29",Red,48.07,4,Road,Road-150,"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control."
+311,"Road-150 Red, 44",Road Bikes,Bikes,"2,171.29",Red,49.99,4,Road,Road-150,"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control."
+312,"Road-150 Red, 48",Road Bikes,Bikes,"2,171.29",Red,"1,263.46",4,Road,Road-150,"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control."
+313,"Road-150 Red, 52",Road Bikes,Bikes,"2,171.29",Red,"1,301.36",4,Road,Road-150,"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control."
+314,"Road-150 Red, 56",Road Bikes,Bikes,"2,171.29",Red,"1,431.50",4,Road,Road-150,"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control."
+315,"Road-450 Red, 58",Road Bikes,Bikes,884.71,Red,"1,263.46",4,Road,Road-450,"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads."
+316,"Road-450 Red, 60",Road Bikes,Bikes,884.71,Red,"1,301.36",4,Road,Road-450,"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads."
+317,"Road-450 Red, 44",Road Bikes,Bikes,884.71,Red,"1,431.50",4,Road,Road-450,"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads."
+318,"Road-450 Red, 48",Road Bikes,Bikes,884.71,Red,"1,263.46",4,Road,Road-450,"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads."
+319,"Road-450 Red, 52",Road Bikes,Bikes,884.71,Red,"1,301.36",4,Road,Road-450,"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads."
+320,"Road-650 Red, 58",Road Bikes,Bikes,413.15,Red,"1,431.50",4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+321,"Road-650 Red, 58",Road Bikes,Bikes,486.71,Red,"1,263.46",4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+322,"Road-650 Red, 60",Road Bikes,Bikes,413.15,Red,"1,301.36",4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+323,"Road-650 Red, 60",Road Bikes,Bikes,486.71,Red,"1,431.50",4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+324,"Road-650 Red, 62",Road Bikes,Bikes,413.15,Red,"1,263.46",4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+325,"Road-650 Red, 62",Road Bikes,Bikes,486.71,Red,"1,301.36",4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+326,"Road-650 Red, 44",Road Bikes,Bikes,413.15,Red,"1,431.50",4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+327,"Road-650 Red, 44",Road Bikes,Bikes,486.71,Red,297.63,4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+328,"Road-650 Red, 48",Road Bikes,Bikes,413.15,Red,306.56,4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+329,"Road-650 Red, 48",Road Bikes,Bikes,486.71,Red,337.22,4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+330,"Road-650 Red, 52",Road Bikes,Bikes,413.15,Red,297.63,4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+331,"Road-650 Red, 52",Road Bikes,Bikes,486.71,Red,306.56,4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+332,"Road-650 Black, 58",Road Bikes,Bikes,413.15,Black,337.22,4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+333,"Road-650 Black, 58",Road Bikes,Bikes,486.71,Black,297.63,4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+334,"Road-650 Black, 60",Road Bikes,Bikes,413.15,Black,306.56,4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+335,"Road-650 Black, 60",Road Bikes,Bikes,486.71,Black,337.22,4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+336,"Road-650 Black, 62",Road Bikes,Bikes,413.15,Black,306.56,4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+337,"Road-650 Black, 62",Road Bikes,Bikes,486.71,Black,337.22,4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+338,"Road-650 Black, 44",Road Bikes,Bikes,413.15,Black,306.56,4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+339,"Road-650 Black, 44",Road Bikes,Bikes,486.71,Black,337.22,4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+340,"Road-650 Black, 48",Road Bikes,Bikes,413.15,Black,306.56,4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+341,"Road-650 Black, 48",Road Bikes,Bikes,486.71,Black,337.22,4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+342,"Road-650 Black, 52",Road Bikes,Bikes,413.15,Black,306.56,4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+343,"Road-650 Black, 52",Road Bikes,Bikes,486.71,Black,337.22,4,Road,Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+344,"Mountain-100 Silver, 38",Mountain Bikes,Bikes,"1,912.15",Silver,306.56,4,Mountain,Mountain-100,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."
+345,"Mountain-100 Silver, 42",Mountain Bikes,Bikes,"1,912.15",Silver,337.22,4,Mountain,Mountain-100,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."
+346,"Mountain-100 Silver, 44",Mountain Bikes,Bikes,"1,912.15",Silver,306.56,4,Mountain,Mountain-100,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."
+347,"Mountain-100 Silver, 48",Mountain Bikes,Bikes,"1,912.15",Silver,337.22,4,Mountain,Mountain-100,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."
+348,"Mountain-100 Black, 38",Mountain Bikes,Bikes,"1,898.09",Black,594.83,4,Mountain,Mountain-100,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."
+349,"Mountain-100 Black, 42",Mountain Bikes,Bikes,"1,898.09",Black,594.83,4,Mountain,Mountain-100,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."
+350,"Mountain-100 Black, 44",Mountain Bikes,Bikes,"1,898.09",Black,594.83,4,Mountain,Mountain-100,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."
+351,"Mountain-100 Black, 48",Mountain Bikes,Bikes,"1,898.09",Black,594.83,4,Mountain,Mountain-100,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."
+352,"Mountain-200 Silver, 38",Mountain Bikes,Bikes,"1,117.86",Silver,594.83,4,Mountain,Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+353,"Mountain-200 Silver, 38",Mountain Bikes,Bikes,"1,265.62",Silver,297.63,4,Mountain,Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+354,"Mountain-200 Silver, 42",Mountain Bikes,Bikes,"1,117.86",Silver,306.56,4,Mountain,Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+355,"Mountain-200 Silver, 42",Mountain Bikes,Bikes,"1,265.62",Silver,337.22,4,Mountain,Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+356,"Mountain-200 Silver, 46",Mountain Bikes,Bikes,"1,117.86",Silver,297.63,4,Mountain,Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+357,"Mountain-200 Silver, 46",Mountain Bikes,Bikes,"1,265.62",Silver,306.56,4,Mountain,Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+358,"Mountain-200 Black, 38",Mountain Bikes,Bikes,"1,105.81",Black,337.22,4,Mountain,Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+359,"Mountain-200 Black, 38",Mountain Bikes,Bikes,"1,251.98",Black,297.63,4,Mountain,Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+360,"Mountain-200 Black, 42",Mountain Bikes,Bikes,"1,105.81",Black,306.56,4,Mountain,Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+361,"Mountain-200 Black, 42",Mountain Bikes,Bikes,"1,251.98",Black,337.22,4,Mountain,Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+362,"Mountain-200 Black, 46",Mountain Bikes,Bikes,"1,105.81",Black,"1,204.32",4,Mountain,Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+363,"Mountain-200 Black, 46",Mountain Bikes,Bikes,"1,251.98",Black,"1,240.45",4,Mountain,Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+364,"Mountain-300 Black, 38",Mountain Bikes,Bikes,598.44,Black,"1,364.50",4,Mountain,Mountain-300,For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.
+365,"Mountain-300 Black, 40",Mountain Bikes,Bikes,598.44,Black,"1,364.50",4,Mountain,Mountain-300,For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.
+379,"Road-250 Black, 58",Road Bikes,Bikes,"1,320.68",Black,"1,364.50",4,Road,Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+380,"Road-250 Black, 58",Road Bikes,Bikes,"1,554.95",Black,"1,204.32",4,Road,Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+381,"Road-550-W Yellow, 38",Road Bikes,Bikes,605.65,Yellow,"1,240.45",4,Road,Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."
+382,"Road-550-W Yellow, 38",Road Bikes,Bikes,713.08,Yellow,"1,364.50",4,Road,Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."
+383,"Road-550-W Yellow, 40",Road Bikes,Bikes,605.65,Yellow,"1,191.17",4,Road,Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."
+384,"Road-550-W Yellow, 40",Road Bikes,Bikes,713.08,Yellow,"1,226.91",4,Road,Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."
+385,"Road-550-W Yellow, 42",Road Bikes,Bikes,605.65,Yellow,"1,349.60",4,Road,Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."
+386,"Road-550-W Yellow, 42",Road Bikes,Bikes,713.08,Yellow,"1,349.60",4,Road,Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."
+387,"Road-550-W Yellow, 44",Road Bikes,Bikes,605.65,Yellow,"1,349.60",4,Road,Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."
+388,"Road-550-W Yellow, 44",Road Bikes,Bikes,713.08,Yellow,"1,191.17",4,Road,Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."
+389,"Road-550-W Yellow, 48",Road Bikes,Bikes,605.65,Yellow,"1,226.91",4,Road,Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."
+390,"Road-550-W Yellow, 48",Road Bikes,Bikes,713.08,Yellow,"1,349.60",4,Road,Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."
+445,"Men's Sports Shorts, S",Shorts,Clothing,24.75,Black,"1,191.17",0,Sport,Men's Sports Shorts,Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.
+446,"Touring-Panniers, Large",Panniers,Accessories,51.56,Grey,"1,226.91",0,Touring,Touring-Panniers,"Durable, water-proof nylon construction with easy access. Large enough for weekend trips."
+447,Cable Lock,Locks,Accessories,10.31,Green,"1,349.60",0,Sport,Cable Lock,"Wraps to fit front and rear tires, carrier and 2 keys included."
+448,Minipump,Pumps,Accessories,8.25,Green,"1,204.32",0,Sport,Minipump,Designed for convenience. Fits in your pocket. Aluminum barrel. 160psi rated.
+449,Mountain Pump,Pumps,Accessories,10.31,Green,"1,240.45",0,Mountain,Mountain Pump,Simple and light-weight. Emergency patches stored in handle.
+450,Taillights - Battery-Powered,Lights,Accessories,5.77,Green,"1,364.50",0,Road,Taillight,Affordable light for safe night riding - uses 3 AAA batteries
+451,Headlights - Dual-Beam,Lights,Accessories,14.43,Green,"3,578.27",0,Road,Headlights - Dual-Beam,Rechargeable dual-beam headlight.
+452,Headlights - Weatherproof,Lights,Accessories,18.56,Green,"3,578.27",0,Road,Headlights - Weatherproof,Rugged weatherproof headlight.
+453,"Men's Sports Shorts, M",Shorts,Clothing,24.75,Black,"3,578.27",0,Sport,Men's Sports Shorts,Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.
+454,"Men's Sports Shorts, L",Shorts,Clothing,24.75,Black,"3,578.27",0,Sport,Men's Sports Shorts,Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.
+455,"Men's Sports Shorts, XL",Shorts,Clothing,24.75,Black,"3,578.27",0,Sport,Men's Sports Shorts,Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.
+456,"Women's Tights, S",Tights,Clothing,30.93,Black,"1,457.99",0,Sport,Women's Tights,Warm spandex tights for winter riding; seamless chamois construction eliminates pressure points.
+457,"Women's Tights, M",Tights,Clothing,30.93,Black,"1,457.99",0,Sport,Women's Tights,Warm spandex tights for winter riding; seamless chamois construction eliminates pressure points.
+458,"Women's Tights, L",Tights,Clothing,30.93,Black,"1,457.99",0,Sport,Women's Tights,Warm spandex tights for winter riding; seamless chamois construction eliminates pressure points.
+459,"Men's Bib-Shorts, S",Bib-Shorts,Clothing,37.12,Multi,"1,457.99",0,Sport,Men's Bib-Shorts,"Designed for the AWC team with stay-put straps, moisture-control, chamois padding, and leg grippers."
+460,"Men's Bib-Shorts, M",Bib-Shorts,Clothing,37.12,Multi,"1,457.99",0,Sport,Men's Bib-Shorts,"Designed for the AWC team with stay-put straps, moisture-control, chamois padding, and leg grippers."
+461,"Men's Bib-Shorts, L",Bib-Shorts,Clothing,37.12,Multi,699.1,0,Sport,Men's Bib-Shorts,"Designed for the AWC team with stay-put straps, moisture-control, chamois padding, and leg grippers."
+462,"Half-Finger Gloves, S",Gloves,Clothing,9.71,Black,782.99,0,Sport,Half-Finger Gloves,"Full padding, improved finger flex, durable palm, adjustable closure."
+463,"Half-Finger Gloves, S",Gloves,Clothing,9.16,Black,699.1,0,Sport,Half-Finger Gloves,"Full padding, improved finger flex, durable palm, adjustable closure."
+464,"Half-Finger Gloves, M",Gloves,Clothing,9.71,Black,782.99,0,Sport,Half-Finger Gloves,"Full padding, improved finger flex, durable palm, adjustable closure."
+465,"Half-Finger Gloves, M",Gloves,Clothing,9.16,Black,699.1,0,Sport,Half-Finger Gloves,"Full padding, improved finger flex, durable palm, adjustable closure."
+466,"Half-Finger Gloves, L",Gloves,Clothing,9.71,Black,782.99,0,Sport,Half-Finger Gloves,"Full padding, improved finger flex, durable palm, adjustable closure."
+467,"Half-Finger Gloves, L",Gloves,Clothing,9.16,Black,699.1,0,Sport,Half-Finger Gloves,"Full padding, improved finger flex, durable palm, adjustable closure."
+468,"Full-Finger Gloves, S",Gloves,Clothing,15.67,Black,782.99,0,Mountain,Full-Finger Gloves,"Synthetic palm, flexible knuckles, breathable mesh upper. Worn by the AWC team riders."
+469,"Full-Finger Gloves, M",Gloves,Clothing,15.67,Black,699.1,0,Mountain,Full-Finger Gloves,"Synthetic palm, flexible knuckles, breathable mesh upper. Worn by the AWC team riders."
+470,"Full-Finger Gloves, L",Gloves,Clothing,15.67,Black,782.99,0,Mountain,Full-Finger Gloves,"Synthetic palm, flexible knuckles, breathable mesh upper. Worn by the AWC team riders."
+471,"Classic Vest, S",Vests,Clothing,23.75,Blue,699.1,0,Sport,Classic Vest,"Light-weight, wind-resistant, packs to fit into a pocket."
+472,"Classic Vest, M",Vests,Clothing,23.75,Blue,782.99,0,Sport,Classic Vest,"Light-weight, wind-resistant, packs to fit into a pocket."
+473,"Classic Vest, L",Vests,Clothing,23.75,Blue,699.1,0,Sport,Classic Vest,"Light-weight, wind-resistant, packs to fit into a pocket."
+474,"Women's Mountain Shorts, S",Shorts,Clothing,26.18,Black,782.99,0,Mountain,Women's Mountain Shorts,"Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort."
+475,"Women's Mountain Shorts, M",Shorts,Clothing,26.18,Black,699.1,0,Mountain,Women's Mountain Shorts,"Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort."
+476,"Women's Mountain Shorts, L",Shorts,Clothing,26.18,Black,782.99,0,Mountain,Women's Mountain Shorts,"Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort."
+477,Water Bottle - 30 oz.,Bottles and Cages,Accessories,1.87,Green,699.1,0,Sport,Water Bottle,AWC logo water bottle - holds 30 oz; leak-proof.
+478,Mountain Bottle Cage,Bottles and Cages,Accessories,3.74,Green,782.99,0,Mountain,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.
+479,Road Bottle Cage,Bottles and Cages,Accessories,3.36,Green,699.1,0,Road,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.
+480,Patch Kit/8 Patches,Tires and Tubes,Accessories,0.86,Green,782.99,0,Sport,Patch kit,"Includes 8 different size patches, glue and sandpaper."
+481,"Racing Socks, M",Socks,Clothing,3.36,White,699.1,0,Road,Racing Socks,"Thin, lightweight and durable with cuffs that stay up."
+482,"Racing Socks, L",Socks,Clothing,3.36,White,782.99,0,Road,Racing Socks,"Thin, lightweight and durable with cuffs that stay up."
+483,Hitch Rack - 4-Bike,Bike Racks,Accessories,44.88,Green,699.1,0,Sport,Hitch Rack - 4-Bike,"Carries 4 bikes securely; steel construction, fits 2"" receiver hitch."
+484,Bike Wash - Dissolver,Cleaners,Accessories,2.97,Green,782.99,0,Sport,Bike Wash,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle."
+485,Fender Set - Mountain,Fenders,Accessories,8.22,Green,"3,399.99",0,Mountain,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.
+486,All-Purpose Bike Stand,Bike Stands,Accessories,59.47,Green,"3,399.99",0,Mountain,All-Purpose Bike Stand,Perfect all-purpose bike stand for working on your bike at home. Quick-adjusting clamps and steel construction.
+487,Hydration Pack - 70 oz.,Hydration Packs,Accessories,20.57,Silver,"3,399.99",0,Sport,Hydration Pack,"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt."
+488,"Short-Sleeve Classic Jersey, S",Jerseys,Clothing,41.57,Yellow,"3,399.99",0,Sport,Short-Sleeve Classic Jersey,"Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets."
+489,"Short-Sleeve Classic Jersey, M",Jerseys,Clothing,41.57,Yellow,"3,374.99",0,Sport,Short-Sleeve Classic Jersey,"Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets."
+490,"Short-Sleeve Classic Jersey, L",Jerseys,Clothing,41.57,Yellow,"3,374.99",0,Sport,Short-Sleeve Classic Jersey,"Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets."
+491,"Short-Sleeve Classic Jersey, XL",Jerseys,Clothing,41.57,Yellow,"3,374.99",0,Sport,Short-Sleeve Classic Jersey,"Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets."
+528,Mountain Tire Tube,Tires and Tubes,Accessories,1.87,Green,"3,374.99",0,Mountain,Mountain Tire Tube,Self-sealing tube.
+529,Road Tire Tube,Tires and Tubes,Accessories,1.49,Green,"2,071.42",0,Road,Road Tire Tube,Conventional all-purpose tube.
+530,Touring Tire Tube,Tires and Tubes,Accessories,1.87,Green,"2,319.99",0,Touring,Touring Tire Tube,General purpose tube.
+535,LL Mountain Tire,Tires and Tubes,Accessories,9.35,Green,"2,071.42",0,Mountain,LL Mountain Tire,"Comparible traction, less expensive wire bead casing."
+536,ML Mountain Tire,Tires and Tubes,Accessories,11.22,Green,"2,319.99",0,Mountain,ML Mountain Tire,"Great traction, high-density rubber."
+537,HL Mountain Tire,Tires and Tubes,Accessories,13.09,Green,"2,071.42",0,Mountain,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced."
+538,LL Road Tire,Tires and Tubes,Accessories,8.04,Green,"2,319.99",0,Road,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.
+539,ML Road Tire,Tires and Tubes,Accessories,9.35,Green,"2,049.10",0,Road,ML Road Tire,Higher density rubber.
+540,HL Road Tire,Tires and Tubes,Accessories,12.19,Green,"2,294.99",0,Road,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.
+541,Touring Tire,Tires and Tubes,Accessories,10.84,Green,"2,049.10",0,Touring,Touring Tire,High-density rubber.
+560,"Touring-2000 Blue, 60",Touring Bikes,Bikes,755.15,Blue,"2,294.99",4,Touring,Touring-2000,"The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded."
+561,"Touring-1000 Yellow, 46",Touring Bikes,Bikes,"1,481.94",Yellow,"2,049.10",4,Touring,Touring-1000,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.
+562,"Touring-1000 Yellow, 50",Touring Bikes,Bikes,"1,481.94",Yellow,"2,294.99",4,Touring,Touring-1000,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.
+563,"Touring-1000 Yellow, 54",Touring Bikes,Bikes,"1,481.94",Yellow,"1,079.99",4,Touring,Touring-1000,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.
+564,"Touring-1000 Yellow, 60",Touring Bikes,Bikes,"1,481.94",Yellow,"1,079.99",4,Touring,Touring-1000,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.
+565,"Touring-3000 Blue, 54",Touring Bikes,Bikes,461.44,Blue,"2,181.56",4,Touring,Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+566,"Touring-3000 Blue, 58",Touring Bikes,Bikes,461.44,Blue,"2,443.35",4,Touring,Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+567,"Touring-3000 Blue, 62",Touring Bikes,Bikes,461.44,Blue,"1,000.44",4,Touring,Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+568,"Touring-3000 Yellow, 44",Touring Bikes,Bikes,461.44,Yellow,"1,120.49",4,Touring,Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+569,"Touring-3000 Yellow, 50",Touring Bikes,Bikes,461.44,Yellow,"1,000.44",4,Touring,Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+570,"Touring-3000 Yellow, 54",Touring Bikes,Bikes,461.44,Yellow,"1,120.49",4,Touring,Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+571,"Touring-3000 Yellow, 58",Touring Bikes,Bikes,461.44,Yellow,"1,000.44",4,Touring,Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+572,"Touring-3000 Yellow, 62",Touring Bikes,Bikes,461.44,Yellow,"1,120.49",4,Touring,Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+573,"Touring-1000 Blue, 46",Touring Bikes,Bikes,"1,481.94",Blue,"1,000.44",4,Touring,Touring-1000,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.
+574,"Touring-1000 Blue, 50",Touring Bikes,Bikes,"1,481.94",Blue,"1,120.49",4,Touring,Touring-1000,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.
+575,"Touring-1000 Blue, 54",Touring Bikes,Bikes,"1,481.94",Blue,"1,000.44",4,Touring,Touring-1000,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.
+576,"Touring-1000 Blue, 60",Touring Bikes,Bikes,"1,481.94",Blue,"1,120.49",4,Touring,Touring-1000,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.
+577,"Touring-2000 Blue, 46",Touring Bikes,Bikes,755.15,Blue,148.22,4,Touring,Touring-2000,"The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded."
+578,"Touring-2000 Blue, 50",Touring Bikes,Bikes,755.15,Blue,175.49,4,Touring,Touring-2000,"The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded."
+579,"Touring-2000 Blue, 54",Touring Bikes,Bikes,755.15,Blue,229.49,4,Touring,Touring-2000,"The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded."
+580,"Road-350-W Yellow, 40",Road Bikes,Bikes,"1,082.51",Yellow,34.2,4,Road,Road-350-W,"Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day."
+581,"Road-350-W Yellow, 42",Road Bikes,Bikes,"1,082.51",Yellow,102.29,4,Road,Road-350-W,"Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day."
+582,"Road-350-W Yellow, 44",Road Bikes,Bikes,"1,082.51",Yellow,124.73,4,Road,Road-350-W,"Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day."
+583,"Road-350-W Yellow, 48",Road Bikes,Bikes,"1,082.51",Yellow,40.49,4,Road,Road-350-W,"Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day."
+584,"Road-750 Black, 58",Road Bikes,Bikes,343.65,Black,44.54,4,Road,Road-750,Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.
+585,"Touring-3000 Blue, 44",Touring Bikes,Bikes,461.44,Blue,56.29,4,Touring,Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+586,"Touring-3000 Blue, 50",Touring Bikes,Bikes,461.44,Blue,61.92,4,Touring,Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+587,"Mountain-400-W Silver, 38",Mountain Bikes,Bikes,419.78,Silver,109.34,4,Mountain,Mountain-400-W,"This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road."
+588,"Mountain-400-W Silver, 40",Mountain Bikes,Bikes,419.78,Silver,120.27,4,Mountain,Mountain-400-W,"This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road."
+589,"Mountain-400-W Silver, 42",Mountain Bikes,Bikes,419.78,Silver,40.49,4,Mountain,Mountain-400-W,"This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road."
+590,"Mountain-400-W Silver, 46",Mountain Bikes,Bikes,419.78,Silver,44.54,4,Mountain,Mountain-400-W,"This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road."
+591,"Mountain-500 Silver, 40",Mountain Bikes,Bikes,308.22,Silver,56.29,4,Mountain,Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+592,"Mountain-500 Silver, 42",Mountain Bikes,Bikes,308.22,Silver,61.92,4,Mountain,Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+593,"Mountain-500 Silver, 44",Mountain Bikes,Bikes,308.22,Silver,109.34,4,Mountain,Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+594,"Mountain-500 Silver, 48",Mountain Bikes,Bikes,308.22,Silver,120.27,4,Mountain,Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+595,"Mountain-500 Silver, 52",Mountain Bikes,Bikes,308.22,Silver,348.76,4,Mountain,Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+596,"Mountain-500 Black, 40",Mountain Bikes,Bikes,294.58,Black,60.75,4,Mountain,Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+597,"Mountain-500 Black, 42",Mountain Bikes,Bikes,294.58,Black,209.03,4,Mountain,Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+366,"Mountain-300 Black, 44",Mountain Bikes,Bikes,598.44,Black,300.22,4,Mountain,Mountain-300,For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.
+367,"Mountain-300 Black, 48",Mountain Bikes,Bikes,598.44,Black,85.57,4,Mountain,Mountain-300,For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.
+368,"Road-250 Red, 44",Road Bikes,Bikes,"1,518.79",Red,248.39,4,Road,Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+369,"Road-250 Red, 48",Road Bikes,Bikes,"1,518.79",Red,330.06,4,Road,Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+370,"Road-250 Red, 52",Road Bikes,Bikes,"1,518.79",Red,218.01,4,Road,Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+371,"Road-250 Red, 58",Road Bikes,Bikes,"1,320.68",Red,540.75,4,Road,Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+372,"Road-250 Red, 58",Road Bikes,Bikes,"1,554.95",Red,594.83,4,Road,Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+373,"Road-250 Black, 44",Road Bikes,Bikes,"1,320.68",Black,87.75,4,Road,Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+374,"Road-250 Black, 44",Road Bikes,Bikes,"1,554.95",Black,236.03,4,Road,Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+375,"Road-250 Black, 48",Road Bikes,Bikes,"1,320.68",Black,327.22,4,Road,Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+376,"Road-250 Black, 48",Road Bikes,Bikes,"1,554.95",Black,112.57,4,Road,Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+377,"Road-250 Black, 52",Road Bikes,Bikes,"1,320.68",Black,275.39,4,Road,Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+378,"Road-250 Black, 52",Road Bikes,Bikes,"1,554.95",Black,357.06,4,Road,Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+598,"Mountain-500 Black, 44",Mountain Bikes,Bikes,294.58,Black,245.01,4,Mountain,Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+599,"Mountain-500 Black, 48",Mountain Bikes,Bikes,294.58,Black,"1,301.36",4,Mountain,Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+600,"Mountain-500 Black, 52",Mountain Bikes,Bikes,294.58,Black,"1,431.50",4,Mountain,Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+604,"Road-750 Black, 44",Road Bikes,Bikes,343.65,Black,"1,301.36",4,Road,Road-750,Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.
+605,"Road-750 Black, 48",Road Bikes,Bikes,343.65,Black,"1,431.50",4,Road,Road-750,Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.
+606,"Road-750 Black, 52",Road Bikes,Bikes,343.65,Black,"1,301.36",4,Road,Road-750,Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.
