@@ -1,4 +1,7 @@
-# Dick's Sporting Goods Power BI Reporting Dashboard
+# Dick's Sporting Goods Power BI Report
+
+# Dick's Sporting Goods Power BI Report link:
+https://app.powerbi.com/view?r=eyJrIjoiNWE1YzFhYjAtZjYwYS00YjUwLWE1ZmItYjJlODAzOTZiODJiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=52949109301d61d02d0b
 
 ## Introduction
 Dick's Sporting Goods is a leading omnichannel sporting goods retailer committed to providing customers with the best gear and apparel for their sporting needs. The company emphasizes a customer-centric approach, with a wide product range including sports equipment, clothing, footwear, and accessories.
