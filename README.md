@@ -1,6 +1,6 @@
 # Dick's Sporting Goods Power BI Report
 
-# Dick's Sporting Goods Power BI Report link:
+## Dick's Sporting Goods Power BI Report link:
 https://app.powerbi.com/view?r=eyJrIjoiNWE1YzFhYjAtZjYwYS00YjUwLWE1ZmItYjJlODAzOTZiODJiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=52949109301d61d02d0b
 
 ## Introduction
