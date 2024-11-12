@@ -1,82 +1,86 @@
 # Dick's Sporting Goods Power BI Reporting Dashboard
 
 ## Introduction
+Dick's Sporting Goods is a leading omnichannel sporting goods retailer committed to providing customers with the best gear and apparel for their sporting needs. The company emphasizes a customer-centric approach, with a wide product range including sports equipment, clothing, footwear, and accessories.
 
-Dick's Sporting Goods stands as a frontrunner in the sporting goods retail industry, offering a comprehensive selection of equipment, apparel, and footwear designed for a variety of outdoor activities and sports enthusiasts. As the company expands its footprint across the United States, gaining in-depth insights into sales performance, customer demographics, product effectiveness, and geographic market dynamics becomes increasingly vital.
+In today's competitive retail landscape, organizations like Dick's Sporting Goods must leverage data-driven insights to enhance decision-making, optimize operations, and drive sales performance. Understanding various dimensions of sales performance, customer behavior, product profitability, and market dynamics is crucial to maintaining a competitive edge.
 
-**Problem Statement:**
+## Objective
+The objective is to outline the analytical requirements for a comprehensive Power BI reporting solution that encapsulates sales performance, customer behavior, product profitability, and market dynamics dimensions, providing clear and actionable insights across multiple dashboards tailored for diverse stakeholders within the organization.
 
-Dick's Sporting Goods is currently facing significant challenges in effectively visualizing and analyzing critical business data due to a lack of integrated reporting tools. This has led to difficulties in tracking sales trends, understanding customer behavior, and assessing product performance comprehensively. As a result, stakeholders are unable to make data-driven decisions promptly, which hampers strategic planning and business growth.
+## Problem Statement
+Dick's Sporting Goods is facing challenges in visualizing and analyzing critical business data due to insufficient integrated reporting tools. This inhibits tracking sales trends, understanding customer behavior, and assessing product performance comprehensively. Stakeholders are unable to make data-driven decisions promptly, hampering strategic planning and business growth.
 
-To mitigate this pain point, the company seeks to develop a comprehensive Power BI reporting dashboard. The goal is to establish an interactive and visually engaging dashboard suite that provides real-time access to essential performance metrics across various dimensions. This solution should not only enable stakeholders to glean actionable insights, but it should also include user-friendly features such as tooltips for deeper data exploration, allowing users to hover over specific figures and trends to obtain detailed sales information. By doing so, Dick's Sporting Goods aims to enhance decision-making capabilities and drive better business outcomes.
+## KPIs
+- Current revenue figures including Year-to-Date (YTD) total revenue and Year-over-Year (YoY) total revenue.
+- Total quantity sold with YTD and YoY totals.
+- Total profit including YTD and YoY profit figures.
+- Profit margin with corresponding YTD and YoY profit margin values.
+- Gross revenue figures detailing YTD and YoY gross revenue.
+- Total orders with YTD and YoY totals for total orders.
 
-## Objectives
+## Sales Analysis
+1. **Total Revenue and Profit by Month Name**
+   - What are the total revenue and profits for each month?
+   - How does performance in each month compare to others?
+   
+2. **Total Revenue and Profit by Quarter**
+   - What are the total revenue and profits for each quarter?
+   - How do quarterly revenue and profits trend over the year?
+   
+3. **Total Revenue and Profit by Day**
+   - What are the total revenues and profits for each day?
+   - Are there specific days with unusually high or low sales/profit figures?
 
-The overarching goal of this project is to deliver a cohesive Power BI reporting solution featuring four dashboards, each targeting distinct aspects of Dick's Sporting Goods' operational landscape:
+## Customer Behavior Analysis
+1. **Table containing Marital Status, Total Orders, and Revenue**
+   - How many total orders and total revenue are associated with each marital status category?
+   
+2. **Total Revenue by Customer Country, State, and City**
+   - What are the total revenue figures broken down by country, state, and city?
+   - Which geographic areas contribute the most to total revenue?
+   
+3. **Total Revenue by Age Group and Gender**
+   - What are the total revenue figures segmented by age group and gender?
+   - How does revenue performance vary across different age groups and between genders?
+   
+4. **Total Revenue by Occupation and Gender**
+   - What are the total revenue figures categorized by customer occupation and gender?
+   - Are there specific occupations that show higher revenue, and do they vary by gender?
 
-# 1. Overview Dashboard
-## Key Performance Indicators (KPIs)
-This section will provide a visual summary of the company's overall performance through vital KPIs such as Total Sales, Total Quantity Sold, Total Profit, Profit Margin, Gross Sales, and Total Orders, including Year-to-Date (YTD) and Year-over-Year (YoY) comparisons.
+## Product Performance Analysis
+1. **Profit by Category**
+   - Which categories contribute the most to total profit?
+   - What percentage of total profit does each product category contribute?
+   
+2. **Top 10 Products by Profit**
+   - Which ten products generate the highest profit?
+   
+3. **Top 10 Products by Revenue**
+   - Which ten products have the highest revenue figures?
+   
+4. **Bottom 10 Products by Revenue**
+   - Which ten products have the lowest revenue figures?
+   
+5. **Top 10 Model Names by Revenue**
+   - Which ten model names generated the most revenue?
 
-## Data Visualization
-Visual representations will illustrate Total Sales and Profit trends segmented by Month, Quarter, and Day, enabling stakeholders to quickly grasp temporal performance dynamics.
-
-## Tabular Representation
-A detailed table will present comprehensive data, including Profit, Profit Margin, Gross Sales, Total Sales, Total Orders, Region, and Country, providing stakeholders with a granular view of key performance metrics.
-
-**Stakeholders:** Executives, Managers, Financial Analysts  
-**Importance:** Essential for giving a snapshot of overall business performance, enabling quick decision-making based on KPIs.
-
-# 2. Customer Analysis Dashboard
-## Understanding Customer Demographics
-A table will present a comprehensive analysis of customer segments based on marital status, total orders, and total sales, delivering insights into customer demographics and behavior patterns.
-
-## Sales Performance by Location
-Sales data illustrated on a geographical scale will display variations across different customer locations (country, state, city) and allow interaction for detailed exploration.
-
-## Age Group and Gender Distribution Insight
-Total sales examined within age groups and gender demographics will support targeted marketing strategies.
-
-## Occupation-Based Sales Insights
-This section will highlight the relationship between customer occupations and purchase behavior, along with total sales generated by gender.
-
-**Stakeholders:** Marketing Teams, Sales Managers, Customer Relationship Managers  
-**Importance:** Provides valuable insights into customer demographics and behavior, supporting targeted marketing strategies and customer engagement efforts.
-
-# 3. Product Analysis Dashboard
-## Profitability Insights
-This section will evaluate profit margins for each product line, assisting in resource allocation and identifying areas for investment or reevaluation.
-
-## Top Products by Profit
-This section will showcase the top 10 products ranked by profit, informing marketing and inventory strategies to enhance profitability.
-
-## Top-Selling Products
-This section will highlight the top 10 products by sales volume to provide insights into customer purchasing preferences.
-
-## Underperforming Products
-This section will focus on the bottom 10 products by sales for analysis and potential strategy discussions.
-
-## Model Performance Analysis
-This section will include insights into the top 10 model names by sales to inform future design and production efforts.
-
-**Stakeholders:** Product Managers, Marketing Teams, Inventory Analysts  
-**Importance:** Offers detailed insights into product performance, helping to inform inventory management and marketing strategies for enhanced profitability.
-
-# 4. Territory Analysis Dashboard
-## Sales Trend Analysis
-This section will break down total sales by quarter and Territory groups, guiding targeted marketing strategies.
-
-## Order Fulfillment Metrics
-This section will detail the total number of orders processed by country and Territory group to evaluate operational effectiveness.
-
-## Year-To-Date Sales Overview
-This section will include YTD total sales data segmented by country tracked over years for long-term perspective.
-
-## Regions Performance
-This section will identify all regions by YTD total sales to help allocate resources effectively for high-contributing areas.
-
-## Profitability by Region
-This section will showcase the top five regions by profit, guiding resource concentration for customer support and marketing efforts.
-
-**Stakeholders:** Regional Sales Managers, Operations Teams, Strategic Planners  
-**Importance:** Analyzes sales trends and operational metrics by region, assisting in resource allocation and strategy development for targeted market expansion.
+## Geospatial Analysis
+1. **Revenue by Quarter and Group**
+   - What are the total revenue figures aggregated by quarter and customer group?
+   - How do different groups perform across the quarters?
+   
+2. **Total Orders by Country and Group**
+   - What is the total number of orders placed by each country and customer group?
+   - Which countries and groups are the most active in terms of orders?
+   
+3. **YTD Revenue by Country and Year**
+   - What are the year-to-date revenue totals broken down by country?
+   - How does the revenue from 2017 compare with previous years for each country?
+   
+4. **Total Quantity Sold by Country and Product Line**
+   - What is the total quantity sold for each product line in each country?
+   - Which product line has the highest quantity sold for each country?
+   
+5. **Top 5 Regions by Profit**
+   - Which five regions generate the most profit?
